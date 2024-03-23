@@ -1,0 +1,2 @@
+Minimum distance from Bethlehem to Ramallah: 30
+Path: (21Km)Ramallah <- (9Km)Jerusalem <- Bethlehem
